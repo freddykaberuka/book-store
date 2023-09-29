@@ -1,5 +1,5 @@
 import React from 'react';
-import Book from './BookList';
+import Book from './Book';
 import BookForm from './BookForm';
 
 function Books() {
